@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26e985c4-f143-45c7-bced-9561d857b20b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_01_13_100000_create_password_resets_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_09_000001_create_permissions_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_01_13_000001_create_permissions_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_09_000002_create_roles_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_01_13_000002_create_roles_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_09_000003_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_01_14_000003_create_users_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_09_000004_create_statuses_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_01_14_000004_create_statuses_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_09_000005_create_priorities_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_01_14_000005_create_priorities_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_09_000006_create_categories_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_01_14_000006_create_categories_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_09_000007_create_tickets_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_01_15_000007_create_tickets_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_09_000008_create_comments_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_01_15_000008_create_comments_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_09_000009_create_permission_role_pivot_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_01_15_000009_create_permission_role_pivot_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_09_000010_create_role_user_pivot_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_01_15_000010_create_role_user_pivot_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_09_000011_add_relationship_fields_to_tickets_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_01_15_000011_add_relationship_fields_to_tickets_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_09_000012_add_relationship_fields_to_comments_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_01_15_000012_add_relationship_fields_to_comments_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_09_000013_create_audit_logs_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_01_15_000013_create_audit_logs_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_11_10_000001_create_media_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2021_01_15_000001_create_media_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,6 +184,8 @@
       <workItem from="1610720840063" duration="2293000" />
       <workItem from="1610723210742" duration="89000" />
       <workItem from="1610723357542" duration="340000" />
+      <workItem from="1610731623189" duration="39000" />
+      <workItem from="1610731734561" duration="19000" />
     </task>
     <servers />
   </component>
